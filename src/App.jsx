@@ -21,7 +21,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/kalkulyator.png"
+              image="https://дмш-самрина.рф/800/600/https/www.vippng.com/png/detail/225-2258063_calculator-white-svg-download-png-calculator-black-and.png"
               alt="green iguana"
             />
             <CardContent className='text-center'>
