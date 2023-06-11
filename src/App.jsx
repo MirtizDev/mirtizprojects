@@ -1,5 +1,5 @@
 import './App.css'
-import './styles/main.scss'
+import './styles/main.css'
 import * as React from 'react';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
