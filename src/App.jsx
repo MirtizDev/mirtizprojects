@@ -44,7 +44,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/soru.png"
+              image="https://difmark.com/images/product/7/5/57916/who-wants-to-be-a-millionaire-xb1_orig_4.jpg"
               alt="green iguana"
             />
             <CardContent className='text-center'>
@@ -67,7 +67,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/music.png"
+              image="https://googlehomerussia.ru/wp-content/uploads/2020/12/spotify-hero.jpg"
               alt="green iguana"
             />
             <CardContent className='text-center'>
@@ -90,7 +90,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/cinema.png"
+              image="https://avatars.mds.yandex.net/get-altay/1020917/2a00000162876f0a46497aab28c662af9f1c/XXL"
               alt="green iguana"
             />
             <CardContent className='text-center'>
@@ -113,7 +113,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/random.png"
+              image="https://i.quotev.com/jalp36qmqplq.jpg"
               alt="green iguana"
             />
             <CardContent className='text-center'>
@@ -136,7 +136,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/tweet.png"
+              image="https://pbs.twimg.com/media/DuJ9esWXQAENLEK.jpg"
               alt="green iguana"
             />
             <CardContent className='text-center'>
@@ -159,7 +159,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/sameddin.png"
+              image="https://g.foolcdn.com/editorial/images/529287/sad-woman-with-money-flying-out-of-wallet.jpg"
               alt="green iguana"
             />
             <CardContent className='text-center'>
@@ -182,7 +182,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/weather.png"
+              image="https://cdn.teachertube.com/uploads/2018/07/22/475177/hows-the-weather_-weather-song-for-kids-wk-5004.jpg"
               alt="green iguana"
             />
             <CardContent className='text-center'>
@@ -206,7 +206,7 @@ function App() {
             <CardMedia
               component="img"
               height="300"
-              image="../../src/images/todo.png"
+              image="https://lh3.googleusercontent.com/KidRCs3vuny6T5PL6qeANHJRN2oGCpj29k4FSbSYNqJMIEElEu1mJPOgXw5vLGmG_pU=h500"
               alt="green iguana"
             />
             <CardContent className='text-center'>
